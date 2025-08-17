@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/muhammad-safwan-8b6bb8247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/muhammad-safwan-8b6bb8247" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/muhammadsafwan12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/muhammadsafwan12" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhammad-safwan-8b6bb8247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/muhammad-safwan-8b6bb8247" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/muhammadsafwan12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/muhammadsafwan12" height="30" width="40" /></a>
 <a href="https://medium.com/@safwanrafique454" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@safwanrafique454" height="30" width="40" /></a>
 </p>
 
