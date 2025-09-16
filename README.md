@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Mern Stack Projects**
 
-- 📝 I regularly write articles on [@safwanrafique454](@safwanrafique454)
+- 📝 I also write articles on [medium](https://medium.com/@safwanrafique454)
 
 - 💬 Ask me about **Reactjs,MongoDB and Nodejs**
 
