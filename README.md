@@ -1,6 +1,6 @@
 ![Banner](https://github.com/Muhammad-Safwan12/Muhammad-Safwan12/blob/main/github-header-banner.png?raw=true)
 <h1 align="center">Hello Fellow Geeks👋 About me</h1>
-<p>I am __Muhammad Safwan__ ,a __Computer Science__ final year student from University Of Karachi UBIT. I'm begin my career as a FrontEnd Developer and learned Mern stack Development,and I'm passioante about Web Development, Open Source, and DevOps Enthusiast.⚡
+<p>I am **Muhammad Safwan** ,a **Computer Science** final year student from University Of Karachi UBIT. I'm begin my career as a FrontEnd Developer and learned Mern stack Development,and I'm passioante about Web Development, Open Source, and DevOps Enthusiast.⚡
 </p>
 <h3 align="center">I firmly believe in learning and contributing by building real world projects and helping others grow.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
